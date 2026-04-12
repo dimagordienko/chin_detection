@@ -1,0 +1,10 @@
+path: /Users/dmitrij/main/pythonProject/My/ml/pose_estimation/dataset
+train: images/train
+val: images/val
+test: images/test
+
+kpt_shape: [1,3]
+flip_idx: [0]
+
+names:
+  0: chin
